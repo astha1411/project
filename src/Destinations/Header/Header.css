@@ -1,0 +1,12 @@
+.topBar {
+  width: 1350;
+  height: 170px;
+  background-color: pink;
+  margin: 15px;
+  border-radius: 10px 10px 10px 10px;
+}
+.navBar {
+  width: 1350;
+  height: 70px;
+  background-color: lightseagreen;
+}

@@ -1,0 +1,9 @@
+.square {
+  border-style: solid;
+  border-radius: 4px;
+  border-color: darkcyan;
+  width: 27.5px;
+  height: 27.5px;
+  border-width: 2.5px;
+  background-color: white;
+}
